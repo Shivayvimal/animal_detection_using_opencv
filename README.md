@@ -54,7 +54,3 @@ Before running the project, ensure you have the following installed:
 ## License
 This project is licensed under the MIT License. See `LICENSE` for more details.
 
----
-
-For any questions or issues, feel free to raise an issue on GitHub or contact the project maintainer.
-
